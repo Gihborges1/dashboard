@@ -1,0 +1,924 @@
+[
+  {
+    "nome": "Giovanna Borges",
+    "email": "admin",
+    "senha": "123",
+    "area": "admin",
+    "nasc": "2002-12-05",
+    "user": "Giovanna"
+  },
+  {
+    "nome": "João Macedo",
+    "email": "joao@macedo.com",
+    "senha": "12345",
+    "area": "Financeiro",
+    "nasc": "1997-04-18",
+    "user": "Joao",
+    "pot" : 8.166,
+    "notas": [
+      { "Joao" : [
+          {
+            "categoria": "li",
+            "p1" : 8,
+            "p2" : 10,
+            "p3" : 10,
+            "p4" : 10,
+            "p5" : 10,
+            "li_mg" : 8.85,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 8,
+            "p4" : 8,
+            "p5" : 9,
+            "ne_mg" : 7.55,
+            "mediageral": 10
+          },
+          {
+            "categoria": "vs",
+            "p1" : 10,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 7,
+            "p5" : 5,
+            "vs_mg" : 8.1,
+            "mediageral": 10
+          },
+          {
+            "categoria": "re",
+            "p1" : 4,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 9,
+            "p5" : 9,
+            "re_mg" : 8.125,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ic",
+            "p1" : 10,
+            "p2" : 8,
+            "p3" : 5,
+            "p4" : 9,
+            "p5" : 9,
+            "ic_mg" : 7.575,
+            "mediageral": 10
+          },
+          {
+            "categoria": "te",
+            "p1" : 9,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 10,
+            "p5" : 9,
+            "te_mg" : 8.125,
+            "mediageral": 10
+          }
+        ]
+      },
+      { "Maria" : [
+          {
+            "categoria": "li",
+            "p1" : 8,
+            "p2" : 2,
+            "p3" : 9,
+            "p4" : 10,
+            "p5" : 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 8,
+            "p2" : 8,
+            "p3" : 5,
+            "p4" : 6,
+            "p5" : 9
+          },
+          {
+            "categoria": "vs",
+            "p1" : 9,
+            "p2" : 7,
+            "p3" : 6,
+            "p4" : 4,
+            "p5" : 5
+          },
+          {
+            "categoria": "re",
+            "p1" : 9,
+            "p2" : 10,
+            "p3" : 10,
+            "p4" : 9,
+            "p5" : 8
+          },
+          {
+            "categoria": "ic",
+            "p1" : 7,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 8,
+            "p5" : 5
+          },
+          {
+            "categoria": "te",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 10,
+            "p4" : 6,
+            "p5" : 8
+          }
+        ]
+      },
+      { "Lucas" : [
+          {
+            "categoria": "li",
+            "p1" : 10,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 8,
+            "p5" : 7,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 10,
+            "p2" : 5,
+            "p3" : 6,
+            "p4" : 3,
+            "p5" : 4,
+            "mediageral": 10
+          },
+          {
+            "categoria": "vs",
+            "p1" : 10,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 6,
+            "p5" : 5,
+            "mediageral": 10
+          },
+          {
+            "categoria": "re",
+            "p1" : 3,
+            "p2" : 6,
+            "p3" : 7,
+            "p4" : 10,
+            "p5" : 10,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ic",
+            "p1" : 9,
+            "p2" : 8,
+            "p3" : 7,
+            "p4" : 2,
+            "p5" : 4,
+            "mediageral": 10
+          },
+          {
+            "categoria": "te",
+            "p1" : 3,
+            "p2" : 8,
+            "p3" : 10,
+            "p4" : 9,
+            "p5" : 10,
+            "mediageral": 10
+          }
+        ]
+      },
+      { "Fatima" : [
+          {
+            "categoria": "li",
+            "p1" : 8,
+            "p2" : 9,
+            "p3" : 7,
+            "p4" : 9,
+            "p5" : 9
+          },
+          {
+            "categoria": "ne",
+            "p1" : 9,
+            "p2" : 8,
+            "p3" : 7,
+            "p4" : 4,
+            "p5" : 5 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 8,
+            "p2" : 9,
+            "p3" : 9,
+            "p4" : 8,
+            "p5" : 9
+          },
+          {
+            "categoria": "re",
+            "p1" : 9,
+            "p2" : 7,
+            "p3" : 4,
+            "p4" : 8,
+            "p5" : 9
+          },
+          {
+            "categoria": "ic",
+            "p1" : 5,
+            "p2" : 9,
+            "p3" : 8,
+            "p4" : 7,
+            "p5" : 1
+          },
+          {
+            "categoria": "te",
+            "p1" : 1,
+            "p2" : 2,
+            "p3" : 5,
+            "p4" : 8,
+            "p5" : 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Maria Oliveira",
+    "email": "maria@oliveira.com",
+    "senha": "12345",
+    "area": "Estagiária",
+    "nasc": "2005-01-22",
+    "user": "Maria",
+    "pot" : 5.365,
+    "notas" : [
+      { "Joao" : [
+          {
+            "categoria": "li",
+            "p1" : 5,
+            "p2" : 6,
+            "p3" : 4,
+            "p4" : 1,
+            "p5" : 6
+          },
+          {
+            "categoria": "ne",
+            "p1" : 6,
+            "p2" : 5,
+            "p3" : 4,
+            "p4" : 6,
+            "p5" : 6 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 6,
+            "p2" : 8,
+            "p3" : 4,
+            "p4" : 7,
+            "p5" : 6
+          },
+          {
+            "categoria": "re",
+            "p1" : 6,
+            "p2" : 6,
+            "p3" : 8,
+            "p4" : 4,
+            "p5" : 5
+          },
+          {
+            "categoria": "ic",
+            "p1" : 5,
+            "p2" : 6,
+            "p3" : 4,
+            "p4" : 4,
+            "p5" : 6
+          },
+          {
+            "categoria": "te",
+            "p1" : 6,
+            "p2" : 6,
+            "p3" : 7,
+            "p4" : 10,
+            "p5" : 6
+          }
+        ]
+      },
+      { "Maria" : [
+          {
+            "categoria": "li",
+            "p1" : 8,
+            "p2" : 6,
+            "p3" : 4,
+            "p4" : 5,
+            "p5" : 5,
+            "li_mg" : 5.675,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 6,
+            "p2" : 6,
+            "p3" : 9,
+            "p4" : 4,
+            "p5" : 7,
+            "ne_mg" : 5.025,
+            "mediageral": 10
+          },
+          {
+            "categoria": "vs",
+            "p1" : 7,
+            "p2" : 7,
+            "p3" : 4,
+            "p4" : 4,
+            "p5" : 6,
+            "vs_mg" : 5.4,
+            "mediageral": 10
+          },
+          {
+            "categoria": "re",
+            "p1" : 5,
+            "p2" : 5,
+            "p3" : 5,
+            "p4" : 4,
+            "p5" : 6,
+            "re_mg" : 5.2,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ic",
+            "p1" : 7,
+            "p2" : 8,
+            "p3" : 3,
+            "p4" : 6,
+            "p5" : 4,
+            "ic_mg" : 5.575,
+            "mediageral": 10
+          },
+          {
+            "categoria": "te",
+            "p1" : 6,
+            "p2" : 5,
+            "p3" : 5,
+            "p4" : 4,
+            "p5" : 4,
+            "te_mg" : 5.65,
+            "mediageral": 10
+          }
+        ]
+      },
+      { "Lucas" : [
+          {
+            "categoria": "li",
+            "p1" : 5,
+            "p2" : 6,
+            "p3" : 7,
+            "p4" : 8,
+            "p5" : 6
+          },
+          {
+            "categoria": "ne",
+            "p1" : 3,
+            "p2" : 4,
+            "p3" : 6,
+            "p4" : 4,
+            "p5" : 1 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 6,
+            "p2" : 6,
+            "p3" : 5,
+            "p4" : 5,
+            "p5" : 8
+          },
+          {
+            "categoria": "re",
+            "p1" : 8,
+            "p2" : 4,
+            "p3" : 1,
+            "p4" : 6,
+            "p5" : 5
+          },
+          {
+            "categoria": "ic",
+            "p1" : 5,
+            "p2" : 6,
+            "p3" : 4,
+            "p4" : 9,
+            "p5" : 6
+          },
+          {
+            "categoria": "te",
+            "p1" : 5,
+            "p2" : 4,
+            "p3" : 5,
+            "p4" : 5,
+            "p5" : 7
+          }
+        ]
+      },
+      { "Fatima" : [
+          {
+            "categoria": "li",
+            "p1" : 8,
+            "p2" : 9,
+            "p3" : 6,
+            "p4" : 5,
+            "p5" : 5
+          },
+          {
+            "categoria": "ne",
+            "p1" : 5,
+            "p2" : 4,
+            "p3" : 6,
+            "p4" : 5,
+            "p5" : 5 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 5,
+            "p2" : 5,
+            "p3" : 5,
+            "p4" : 6,
+            "p5" : 4
+          },
+          {
+            "categoria": "re",
+            "p1" : 5,
+            "p2" : 6,
+            "p3" : 4,
+            "p4" : 1,
+            "p5" : 5
+          },
+          {
+            "categoria": "ic",
+            "p1" : 6,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 9,
+            "p5" : 9
+          },
+          {
+            "categoria": "te",
+            "p1" : 3,
+            "p2" : 4,
+            "p3" : 6,
+            "p4" : 5,
+            "p5" : 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Lucas Carvalho",
+    "email": "lucas@carvalho.com",
+    "senha": "12345",
+    "area": "Recepcionista",
+    "nasc": "1992-08-23",
+    "user": "Lucas",
+    "pot" : 8.355,
+    "notas": [
+      { "Joao" : [
+          {
+            "categoria": "li",
+            "p1" : 10,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 10,
+            "p5" : 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 5,
+            "p2" : 9,
+            "p3" : 10,
+            "p4" : 4,
+            "p5" : 7 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 8,
+            "p2" : 9,
+            "p3" : 9,
+            "p4" : 6,
+            "p5" : 10
+          },
+          {
+            "categoria": "re",
+            "p1" : 7,
+            "p2" : 9,
+            "p3" : 8,
+            "p4" : 3,
+            "p5" : 9
+          },
+          {
+            "categoria": "ic",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 10,
+            "p4" : 8,
+            "p5" : 9
+          },
+          {
+            "categoria": "te",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 9,
+            "p4" : 9,
+            "p5" : 8
+          }
+        ]
+      },
+      { "Maria" : [
+          {
+            "categoria": "li",
+            "p1" : 10,
+            "p2" : 9,
+            "p3" : 6,
+            "p4" : 5,
+            "p5" : 8
+          },
+          {
+            "categoria": "ne",
+            "p1" : 10,
+            "p2" : 9,
+            "p3" : 4,
+            "p4" : 7,
+            "p5" : 8 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 9,
+            "p4" : 9,
+            "p5" : 8
+          },
+          {
+            "categoria": "re",
+            "p1" : 9,
+            "p2" : 10,
+            "p3" : 10,
+            "p4" : 9,
+            "p5" : 8
+          },
+          {
+            "categoria": "ic",
+            "p1" : 10,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 4,
+            "p5" : 10
+          },
+          {
+            "categoria": "te",
+            "p1" : 8,
+            "p2" : 3,
+            "p3" : 5,
+            "p4" : 6,
+            "p5" : 7
+          }
+        ]
+      },
+      { "Lucas" : [
+          {
+            "categoria": "li",
+            "p1" : 5,
+            "p2" : 6,
+            "p3" : 4,
+            "p4" : 5,
+            "p5" : 10,
+            "li_mg" : 8.45,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 10,
+            "p2" : 5,
+            "p3" : 9,
+            "p4" : 8,
+            "p5" : 7,
+            "ne_mg" : 8.075,
+            "mediageral": 10
+          },
+          {
+            "categoria": "vs",
+            "p1" : 9,
+            "p2" : 8,
+            "p3" : 10,
+            "p4" : 10,
+            "p5" : 8,
+            "vs_mg" : 8.875,
+            "mediageral": 10
+          },
+          {
+            "categoria": "re",
+            "p1" : 3,
+            "p2" : 6,
+            "p3" : 7,
+            "p4" : 10,
+            "p5" : 10,
+            "re_mg" : 7.15,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ic",
+            "p1" : 8,
+            "p2" : 9,
+            "p3" : 9,
+            "p4" : 10,
+            "p5" : 8,
+            "ic_mg" : 8.925,
+            "mediageral": 10
+          },
+          {
+            "categoria": "te",
+            "p1" : 9,
+            "p2" : 9,
+            "p3" : 7,
+            "p4" : 4,
+            "p5" : 10,
+            "te_mg" : 7.85,
+            "mediageral": 10
+          }
+        ]
+      },
+      { "Fatima" : [
+          {
+            "categoria": "li",
+            "p1" : 9,
+            "p2" : 8,
+            "p3" : 6,
+            "p4" : 10,
+            "p5" : 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 10,
+            "p2" : 8,
+            "p3" : 8,
+            "p4" : 9,
+            "p5" : 9 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 8,
+            "p2" : 9,
+            "p3" : 9,
+            "p4" : 8,
+            "p5" : 9
+          },
+          {
+            "categoria": "re",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 7,
+            "p4" : 7,
+            "p5" : 3
+          },
+          {
+            "categoria": "ic",
+            "p1" : 9,
+            "p2" : 8,
+            "p3" : 7,
+            "p4" : 10,
+            "p5" : 8
+          },
+          {
+            "categoria": "te",
+            "p1" : 6,
+            "p2" : 4,
+            "p3" : 9,
+            "p4" : 8,
+            "p5" : 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Fátima Pereira",
+    "email": "fatima@pereira.com",
+    "senha": "12345",
+    "area": "TI",
+    "nasc": "2003-10-22",
+    "user": "Fatima",
+    "pot" : 7.948,
+    "notas" : [
+      { "Joao" : [
+          {
+            "categoria": "li",
+            "p1" : 8,
+            "p2" : 9,
+            "p3" : 9,
+            "p4" : 7,
+            "p5" : 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 10,
+            "p2" : 9,
+            "p3" : 8,
+            "p4" : 6,
+            "p5" : 5 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 5,
+            "p2" : 5,
+            "p3" : 5,
+            "p4" : 5,
+            "p5" : 5
+          },
+          {
+            "categoria": "re",
+            "p1" : 9,
+            "p2" : 10,
+            "p3" : 8,
+            "p4" : 8,
+            "p5" : 6
+          },
+          {
+            "categoria": "ic",
+            "p1" : 8,
+            "p2" : 9,
+            "p3" : 9,
+            "p4" : 4,
+            "p5" : 10
+          },
+          {
+            "categoria": "te",
+            "p1" : 10,
+            "p2" : 9,
+            "p3" : 9,
+            "p4" : 8,
+            "p5" : 7
+          }
+        ]
+      },
+      { "Maria" : [
+         {
+            "categoria": "li",
+            "p1" : 10,
+            "p2" : 9,
+            "p3" : 10,
+            "p4" : 5,
+            "p5" : 8
+          },
+          {
+            "categoria": "ne",
+            "p1" : 9,
+            "p2" : 9,
+            "p3" : 10,
+            "p4" : 6,
+            "p5" : 5 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 10,
+            "p2" : 8,
+            "p3" : 3,
+            "p4" : 9,
+            "p5" : 9
+          },
+          {
+            "categoria": "re",
+            "p1" : 7,
+            "p2" : 5,
+            "p3" : 8,
+            "p4" : 9,
+            "p5" : 9
+          },
+          {
+            "categoria": "ic",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 5,
+            "p4" : 4,
+            "p5" : 8
+          },
+          {
+            "categoria": "te",
+            "p1" : 9,
+            "p2" : 8,
+            "p3" : 7,
+            "p4" : 8,
+            "p5" : 9
+          }
+        ]
+      },
+      { "Lucas" : [
+          {
+            "categoria": "li",
+            "p1" : 1,
+            "p2" : 5,
+            "p3" : 9,
+            "p4" : 3,
+            "p5" : 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 9,
+            "p4" : 8,
+            "p5" : 7 
+          },
+          {
+            "categoria": "vs",
+            "p1" : 7,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 9,
+            "p5" : 9
+          },
+          {
+            "categoria": "re",
+            "p1" : 10,
+            "p2" : 8,
+            "p3" : 5,
+            "p4" : 6,
+            "p5" : 10
+          },
+          {
+            "categoria": "ic",
+            "p1" : 10,
+            "p2" : 9,
+            "p3" : 8,
+            "p4" : 7,
+            "p5" : 10
+          },
+          {
+            "categoria": "te",
+            "p1" : 10,
+            "p2" : 9,
+            "p3" : 10,
+            "p4" : 9,
+            "p5" : 8
+          }
+        ]
+      },
+      { "Fatima" : [
+          {
+            "categoria": "li",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 8,
+            "p4" : 9,
+            "p5" : 7,
+            "li_mg" : 8.25,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ne",
+            "p1" : 7,
+            "p2" : 8,
+            "p3" : 9,
+            "p4" : 10,
+            "p5" : 5,
+            "ne_mg" : 7.7,
+            "mediageral": 10
+          },
+          {
+            "categoria": "vs",
+            "p1" : 5,
+            "p2" : 3,
+            "p3" : 9,
+            "p4" : 7,
+            "p5" : 4,
+            "vs_mg" : 6.8,
+            "mediageral": 10
+          },
+          {
+            "categoria": "re",
+            "p1" : 10,
+            "p2" : 10,
+            "p3" : 8,
+            "p4" : 9,
+            "p5" : 10,
+            "re_mg" : 8.6,
+            "mediageral": 10
+          },
+          {
+            "categoria": "ic",
+            "p1" : 8,
+            "p2" : 9,
+            "p3" : 7,
+            "p4" : 10,
+            "p5" : 10,
+            "ic_mg" : 8.225,
+            "mediageral": 10
+          },
+          {
+            "categoria": "te",
+            "p1" : 10,
+            "p2" : 9,
+            "p3" : 8,
+            "p4" : 7,
+            "p5" : 8,
+            "te_mg" : 8.7,
+            "mediageral": 10
+          }
+        ]
+      }
+    ]
+  }
+]
